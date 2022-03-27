@@ -3,7 +3,7 @@ programs that aren't large enough to be their own project,
 usually just tools to help with small tasks or to fulfill a curiosity.
 
 # F1 Championship Permutations
-Calculates the number of F1 championship permutations won by a driver given
+Calculates the number of F1 championship permutations won by each driver given
 the score system (number of available places) and driver's points (number of
 drivers).
 
